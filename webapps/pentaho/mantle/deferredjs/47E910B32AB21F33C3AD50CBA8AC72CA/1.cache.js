@@ -1,0 +1,1 @@
+trb(1287,1,a3d);_.cc=function QMc(){iqd((gqd(),gqd(),fqd))};y3d(Jk)(1);

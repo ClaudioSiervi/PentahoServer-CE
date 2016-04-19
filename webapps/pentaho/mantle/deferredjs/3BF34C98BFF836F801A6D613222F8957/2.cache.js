@@ -1,0 +1,1 @@
+irb(1295,1,$2d);_.Zb=function TMc(){hqd((fqd(),fqd(),eqd))};w3d(tk)(2);
