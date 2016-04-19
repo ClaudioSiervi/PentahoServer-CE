@@ -7,7 +7,7 @@
 
   <context-param>
     <param-name>solution-path</param-name>
-    <param-value>C:\Users\Claudio\Pentaho\biserver-ce\pentaho-solutions</param-value>
+    <param-value></param-value>
   </context-param>
 
   <!--
@@ -22,20 +22,19 @@
   <!--  FullyQualifiedServerUrl is used only in the case of offline content generation and whenever something need to talk back to the server -->
   <context-param>
     <param-name>fully-qualified-server-url</param-name>
-    <!-- <param-value>http://localhost:8080/pentaho/</param-value> -->
-    <param-value>http://192.168.0.14:8080/pentaho/</param-value>
+    <param-value>http://localhost:8080/pentaho/</param-value>
   </context-param>
 
   <context-param>
     <param-name>locale-language</param-name>
     <!-- for example 'fr' for French, 'de' for German, da for danish -->
-    <param-value>en</param-value>
+    <param-value></param-value>
   </context-param>
 
   <context-param>
     <param-name>locale-country</param-name>
     <!-- for example 'FR' for France, 'CA' for Canada -->
-    <param-value>US</param-value>
+    <param-value></param-value>
   </context-param>
   <context-param>
     <param-name>contextClass</param-name>
